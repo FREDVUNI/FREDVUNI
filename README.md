@@ -9,7 +9,7 @@ I am a full stack developer / low key mentor with industry experience building w
 * 🌍  I'm based in Kampala, Uganda
 * 🖥️  See my portfolio at [https://fredvuni.netlify.app/](http://fredvuni.netlify.app/)
 * ✉️  You can contact me at [fredvuni809@gmail.com](mailto:fredvuni809@gmail.com)
-* 🚀  I'm currently working on [Prisma express application with postgreSQL](http://https://github.com/FREDVUNI/prisma-express)
+* 🚀  I'm currently working on [TypeScript React](https://github.com/FREDVUNI/project-zoe-client)
 * 🧠  I'm learning NestJS, TypeScript,TypeORM, Material UI, Tailwind CSS
 
 ### Skills
