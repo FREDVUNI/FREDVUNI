@@ -4,7 +4,7 @@ Hi 👋 My name is Fred Vuni
 Full Stack JavaScript and PHP Developer
 ---------------------------------------
 
-I am a full stack developer with industry experience building websites, web applications and REST APIs in JavaScript and PHP. I have been in the programming circles for years now. I still try to learn as much as I can, because the possibilities in the computer science world are limitless. - I have experience working with Vue JS, Node JS, React JS, Codeigniter, Laravel, Python, JQuery, Django , Java , MySQL, PostgresQL, SQLite, MongoDB, Bootsrap, WordPress and JavaScript.
+I am a full stack developer with industry experience building websites, web applications and REST APIs in JavaScript and PHP. I have been in the programming circles for years now. I still try to learn as much as I can, because the possibilities in the computer science world are limitless. - I have experience working with Vue JS, Node JS, React JS, Codeigniter, Laravel, Python, JQuery, Django , Java , MySQL, PostgresQL, SQLite, MongoDB, Bootstrap, WordPress and JavaScript.
 
 * 🌍  I'm based in Kampala, Uganda
 * 🖥️  See my portfolio at [https://fredvuni.netlify.app/](http://fredvuni.netlify.app/)
