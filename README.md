@@ -10,7 +10,7 @@ I am a full stack developer with industry experience building websites, web appl
 * 🖥️  See my portfolio at [https://fredvuni.netlify.app/](http://fredvuni.netlify.app/)
 * ✉️  You can contact me at [fredvuni809@gmail.com](mailto:fredvuni809@gmail.com)
 * 🚀  I'm currently working on [TypeScript React](https://github.com/FREDVUNI/project-zoe-client)
-* 🧠  I'm learning NestJS, TypeScript,TypeORM, Material UI, Tailwind CSS, SpringBoot, Docker
+* 🧠  I'm learning NestJS, TypeScript,TypeORM, Tailwind CSS, SpringBoot, Docker
 
 ### Skills
 
