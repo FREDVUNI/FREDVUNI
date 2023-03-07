@@ -4,7 +4,7 @@ Hi 👋 My name is Fred Vuni
 Software Developer
 ---------------------------------------
 
-I write code, drink a lot of water, learn new things (I find it exciting) and love a good laugh. - I have written code in PHP, Vue JS, Node JS, React JS, Codeigniter, Laravel, Python, JQuery, Django , Java , MySQL, PostgresQL, SQLite, MongoDB, Bootstrap, WordPress and JavaScript.
+I write code, drink plenty of water, learn new things (I find it exciting) and love a good laugh. - I have written code in PHP, Vue JS, Node JS, React JS, Codeigniter, Laravel, Python, JQuery, Django , Java , MySQL, PostgresQL, SQLite, MongoDB, Bootstrap, WordPress and JavaScript.
 
 * 🌍  I'm based in Kampala, Uganda
 * 🖥️  See my portfolio at [https://fredvuni.netlify.app/](http://fredvuni.netlify.app/)
