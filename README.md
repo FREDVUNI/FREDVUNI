@@ -6,7 +6,7 @@ A software developer with experience in multiple languages and frameworks, passi
 * 🌍  I'm based in Kampala, Uganda
 * 🖥️  See my portfolio at [https://fredvuni.netlify.app/](http://fredvuni.netlify.app/)
 * ✉️  You can contact me at [fredvuni809@gmail.com](mailto:fredvuni809@gmail.com)
-* 🚀  I'm currently working on [TypeScript React](https://github.com/FREDVUNI/project-zoe-client)
+* 🚀  I'm currently working on [TypeScript React](https://github.com/FREDVUNI/trello-clone)
 * 🧠  I'm learning NestJS, TypeScript,TypeORM, SpringBoot, Docker
 
 ### Skills
