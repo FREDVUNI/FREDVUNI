@@ -9,8 +9,7 @@ A software developer with experience in multiple languages and frameworks, passi
 * 🚀  I'm currently working on [TypeScript React](https://github.com/FREDVUNI/trello-clone)
 * 🧠  I'm learning NestJS, TypeScript,TypeORM, SpringBoot, Docker
 
-### Skills
-
+### Tools and technologies
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
