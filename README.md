@@ -1,13 +1,13 @@
 Hi there! 👋 my name is Fred Vuni
 ==========================
 
-A software developer with experience in multiple languages and frameworks, passionate about learning and staying hydrated. When I'm not coding or drinking water, you can find me telling bad jokes, watching/binging shows, going to church, and exploring new music genres. Proficient in front-end frameworks such as Vue JS, React JS, and Bootstrap, as well as back-end technologies like Node JS, Django, and Laravel. Skilled in database management with experience in MySQL, PostgreSQL, SQLite, and MongoDB. Passionate about contributing to open-source projects and making a positive impact on the tech community. Currently learning TypeScript and NestJS to enhance my skills and stay up-to-date with the latest technologies as well as exploring the field of data science to develop more intelligent applications. 
+A software developer with experience in multiple languages and frameworks, passionate about learning and staying hydrated. When I'm not coding or drinking water, you can find me telling bad jokes, watching/binging shows, going to church, and exploring new music genres. Proficient in front-end frameworks such as Vue JS, React JS, and Bootstrap, as well as back-end technologies like Node JS, Django, and Laravel. Skilled in database management with experience in MySQL, PostgreSQL, SQLite, and MongoDB. Passionate about contributing to open-source projects and making a positive impact on the tech community. Currently learning TypeScript and NextJS to enhance my skills and stay up-to-date with the latest technologies as well as exploring the field of data science to develop more intelligent applications. 
 
 * 🌍  I'm based in Kampala, Uganda
 * 🖥️  See my portfolio at [https://fredvuni.netlify.app/](http://fredvuni.netlify.app/)
 * ✉️  You can contact me at [fredvuni809@gmail.com](mailto:fredvuni809@gmail.com)
 * 🚀  I'm currently working on [TypeScript React](https://github.com/FREDVUNI/trello-clone)
-* 🧠  I'm learning NestJS, TypeScript,TypeORM, SpringBoot, Docker
+* 🧠  I'm learning NextJS, TypeScript,CI/CD, SpringBoot, Docker
 
 ### Tools and technologies
 
