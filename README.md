@@ -5,6 +5,8 @@ Hi there! 👋
     <p>I'm Fred Vuni, a passionate software developer with a love for learning and a knack for crafting innovative solutions. I thrive in the world of multiple languages and frameworks, and I'm always eager to stay ahead of the tech curve.</p>
 
 <p> I'm on a journey to master TypeScript and NextJS, sharpening my skills and embracing the latest technologies. Additionally, I'm delving into the fascinating realm of data science, aiming to create intelligent applications that make a real impact.</p>
+
+<a href="https://wakatime.com/@018bb52a-6a81-43ba-bffc-c40037c371d3"><img src="https://wakatime.com/badge/user/018bb52a-6a81-43ba-bffc-c40037c371d3.svg" alt="Total time coded since Nov 9 2023" /></a>
   
     * 🌍  I'm based in Kampala, Uganda
     * 🖥️  See my portfolio at http://fredvuni.netlify.app/
