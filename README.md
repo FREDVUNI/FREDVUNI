@@ -9,7 +9,7 @@ Hi there! 👋
 <a href="https://wakatime.com/@018bb52a-6a81-43ba-bffc-c40037c371d3"><img src="https://wakatime.com/badge/user/018bb52a-6a81-43ba-bffc-c40037c371d3.svg" alt="Total time coded since Nov 9 2023" /></a>
   
     * 🌍  I'm based in Kampala, Uganda
-    * 🖥️  See my portfolio at http://fredvuni.netlify.app/
+    * 🖥️  See my portfolio at [http://fredvuni.netlify.app/](http://fredvuni.netlify.app/)
     * ✉️  You can contact me at fredvuni809@gmail.com
     * 🚀  I'm currently working on next JS app
     * 🧠  I'm learning NextJS, TypeScript,CI/CD, SpringBoot, Docker
