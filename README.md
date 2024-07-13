@@ -2,7 +2,7 @@ Hi there! 👋
 ==========================
 
 <div>
-    <p>I'm Fred Vuni, a passionate software developer with a love for learning and a knack for crafting innovative solutions. I thrive in the world of multiple languages and frameworks, and I'm always eager to stay ahead of the tech curve.</p>
+    <p>I'm Fred, a passionate software developer with a love for learning and a knack for crafting innovative solutions. I thrive in the world of multiple languages and frameworks, and I'm always eager to stay ahead of the tech curve.</p>
 
 <p> I'm on a journey to master TypeScript, NextJS, wordpress hooks, filters, and webhooks, sharpening my skills and embracing the latest technologies. Additionally, I'm immersing myself in the captivating realm of artificial intelligence, with the goal of crafting intelligent applications that yield tangible impact.</p>
 
