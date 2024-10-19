@@ -12,7 +12,6 @@ I'm a passionate software developer with a love for learning and a strong focus 
     * 🖥️  See my portfolio at https://fredvuni.netlify.app/
     * ✉️  You can contact me at fredvuni809@gmail.com
     * 🚀  I'm currently working on next JS app
-    * 🧠  I'm learning NextJS, TypeScript,CI/CD, SpringBoot, Docker
 </div>
 
 ### Tools and technologies
