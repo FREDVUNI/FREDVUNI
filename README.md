@@ -2,9 +2,9 @@ Hi there! 👋
 ==========================
 
 <div>
-    <p>I'm Fred, a passionate software developer with a love for learning and a knack for crafting innovative solutions. I thrive in the world of multiple languages and frameworks, and I'm always eager to stay ahead of the tech curve.</p>
+  Fred | Software Developer
 
-<p> I'm on a journey to master TypeScript, NextJS, wordpress hooks, filters, and webhooks, sharpening my skills and embracing the latest technologies. Additionally, I'm immersing myself in the captivating realm of artificial intelligence, with the goal of crafting intelligent applications that yield tangible impact.</p>
+I'm a passionate software developer with a love for learning and a strong focus on creating innovative solutions. Skilled in multiple languages and frameworks, I continuously stay ahead of the tech curve, exploring new trends and technologies. My goal is to build efficient, scalable, and impactful software.
 
 <a href="https://wakatime.com/@018bb52a-6a81-43ba-bffc-c40037c371d3"><img src="https://wakatime.com/badge/user/018bb52a-6a81-43ba-bffc-c40037c371d3.svg" alt="Total time coded since Nov 9 2023" /></a>
   
