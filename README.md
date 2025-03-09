@@ -11,8 +11,6 @@ I'm a passionate software developer with a love for learning and a strong focus 
 - ✉️  You can contact me at [fredvuni809@gmail.com](mailto:fredvuni809@gmail.com)
 - 🚀  I'm currently working on a **Next.js app**
 
----
-
 ## 🛠️ Tools and Technologies
 
 ### Programming Languages
@@ -67,8 +65,6 @@ I'm a passionate software developer with a love for learning and a strong focus 
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
----
-
 ## 🌐 Socials
 
 <p align="left">
@@ -78,8 +74,6 @@ I'm a passionate software developer with a love for learning and a strong focus 
   <a href="https://www.linkedin.com/in/fred-vuni-3028a721b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.x.com/Fredvuni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
