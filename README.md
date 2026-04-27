@@ -1,7 +1,7 @@
 Hi there 👋
 
 <div>
-I’m a Software Engineer based in Kampala, Uganda, building reliable and scalable web applications with a strong focus on performance, usability, and maintainability.
+I build reliable and scalable web applications with a strong focus on performance, usability, and maintainability.
 
 I work across the stack, with experience in modern JavaScript frameworks (including Next.js), and take a pragmatic approach to problem-solving—focusing on clean architecture, efficient data handling, and real-world user needs.
 
