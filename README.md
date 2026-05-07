@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋 
 
 <div>
 I build reliable and scalable web applications with a strong focus on performance, usability, and maintainability.
